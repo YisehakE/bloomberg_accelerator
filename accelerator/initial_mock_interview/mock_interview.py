@@ -4,8 +4,9 @@ import math
 class TreeNode:
     
     # Static variables added to tackle problem
-    smallest = math.inf
+    smallest = None
     node_dict = {}
+
 
     def __init__(self, val=0, left=None, right=None):
         self.val = val
@@ -36,12 +37,12 @@ class Solution:
     prev_pos = self.findKthSmallest(node.left, pos, k)
 
     # 2 ways utilizing given class to solve problem
-    TreeNode.node_dict[prev_pos + 1] = node.val # O(n) space complexity
+    # TreeNode.node_dict[prev_pos + 1] = node.val # O(n) space complexity
     if prev_pos + 1 == k: TreeNode.smallest = node.val # O(1) space complexity
 
-    pos = self.findKthSmallest(node.right, prev_pos + 1, k)
+    if TreeNode.smallest != None: return prev_pos + 1 # A shortstop for traversing
 
-    return pos
+    return self.findKthSmallest(node.right, prev_pos + 1, k)
 
 
 
@@ -56,6 +57,8 @@ class Solution:
   @returns: a integer value representing smallest kth element in BST.
   '''
   def kthSmallest(self, root: TreeNode, k: int) -> int:
+        
+
         self.findKthSmallest(root, 0, k)
 
         temp1 = TreeNode.node_dict.get(k)
@@ -71,7 +74,7 @@ class Solution:
 '''
 def resetTreenodeStatics():
     TreeNode.node_dict.clear()
-    TreeNode.smallest = math.inf
+    TreeNode.smallest = None
 
 def testKthSmallest(soln, root, k, value):
   actual = soln.kthSmallest(root, k)
@@ -90,7 +93,12 @@ print("-------------------------------------- Case 1: Single node")
 '''
 root = TreeNode(10, None, None)
 
+
+# Good tests
 testKthSmallest(soln, root, 1, 10)
+
+# Error tests
+testKthSmallest(soln, root, 0, None)
 
 print("-------------------------------------- Case 2: Left & single sub branch only")
 '''
