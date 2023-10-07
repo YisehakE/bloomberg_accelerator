@@ -53,6 +53,8 @@ public class MockInterview {
 
     if (prevPos + 1 == k) { TreeNode.smallest = node.value; }
 
+    if (TreeNode.smallest != Integer.MAX_VALUE) { return prevPos + 1;}
+
     return findKthSmallest(node.right, prevPos + 1, k);
   }
 
