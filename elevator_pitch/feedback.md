@@ -1,7 +1,7 @@
 
-
 # 2-minute elevator pitch on the fly
 
+*** GET REST FROM ONE NOTES !!!
 
 ## Details on pitch
 - Mentioned how I'm a inquisitive learner
@@ -12,4 +12,5 @@
 
 
 ## Chris Feedback
+- 
 - 
