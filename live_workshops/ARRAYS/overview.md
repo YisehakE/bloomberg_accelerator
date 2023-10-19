@@ -1,10 +1,10 @@
 
-## Topic 
-Arrays!!!
+## Date 
+- October 10th, 2023
 
 
 ## Interviewer tipss
-ADD FROM IPAD NOTES
+- ADD FROM IPAD NOTES
 
 
 ## Group Algoexpert problem(s)

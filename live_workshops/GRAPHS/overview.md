@@ -1,4 +1,6 @@
 
+## Date 
+- October 17th, 2023
 
 ## Engineer tips
 Ask clarifying questions

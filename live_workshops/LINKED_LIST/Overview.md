@@ -1,4 +1,8 @@
 
+## Date 
+- October 12th, 2023
+
+
 ## My Fact and Question
 - Fact: Linked List are not contiguos in memory
 

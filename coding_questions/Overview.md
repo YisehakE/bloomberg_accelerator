@@ -11,12 +11,14 @@
 - Linked_List_Contruction              | LL  | Workshop HW
 - DFS                                  | GPH | Workshop
 - BFS                                  | GPH | Workshop
-- 
+- Validate BST
+- Reconstruct BST
 
 
 ## Upcoming HWs
 - Remove Islands                       | GPH | Workshop 
 - Knight_Connection                    | ?   | Chris
+- ADD                                  | BST | Workshop
 
 ## Arrays
 - Merging_Overlapping_Intervals
@@ -38,5 +40,6 @@
 ## BST
 - Find_Kth_Smallest_In_Bst
 - Min_Height_Bst
-- 
+- Validate BST 
+- Reconstruct BST
 
