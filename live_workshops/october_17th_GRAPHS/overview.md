@@ -48,12 +48,19 @@ have children? (2 at most, BST), all other cases are general graph...
 
 
 
+
+## Group Algoexpert problem(s)
+- Depth First Search
+- Breadth First Search
+- Group members:
+  - Nicolas (Engineer)
+  - Camila
+  - Sokhna
+
 ## DFS
-
-
-- 
-
+- UPDATE WITH SOLUTION AND DISCUSSION WITH ENGINEER
 
 
 
 ## BFS
+- UPDATE WITH SOLUTION AND DISCUSSION WITH ENGINEER

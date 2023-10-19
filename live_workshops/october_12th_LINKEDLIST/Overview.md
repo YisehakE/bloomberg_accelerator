@@ -24,15 +24,18 @@
 - Linked List is just point management at the end of the day
 - Sometimes if stuck, think about how the solution would be solved with a array
 
-## AlgoExpert Questions today...
+
+## Group Algoexpert problem(s)
 - remove the K node
 - reverse the linkedlist 
+- Group members:
+  - Paulo Campolina (Engineer)
+  - Emmanuel Mora
+  - Ude Morah
 
 
 ## Removing the K Node from the end
-- 
-
-- Given a linked list and value k
+- Given a linked list and value k...
 
 ### Self reflection
 - Had a hard time understanding what Ude was trying to get at w/ pointers

@@ -1,0 +1,3 @@
+## General notes
+
+- RETRIEVE NOTES FROM IPHONE NOTES!
