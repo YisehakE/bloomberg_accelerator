@@ -129,3 +129,10 @@ def reverseWordsInString_3(string):
         rev_arr.append(word_arr[i])
             
     return "".join(rev_arr)
+
+
+    '''
+    TEST CASES: 1st Solution
+    '''
+
+tst_str_1 = "Algoexpert is the best!"
