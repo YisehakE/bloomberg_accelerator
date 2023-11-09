@@ -12,10 +12,7 @@ A: Yes you can assume that, consider utilizing arrays and .join() method
 
 from collections import deque
 
-
-
 '''
-
 :: SOLUTION 1 :: 
 # Possible brute force solution
   - Passes all test cases!
@@ -136,3 +133,46 @@ def reverseWordsInString_3(string):
     '''
 
 tst_str_1 = "Algoexpert is the best!"
+print(reverseWordsInString_3(tst_str_1))
+
+
+
+
+
+
+
+
+
+'''
+# GENERAL NOTES
+* I gave myself 20 minutes to do this problem
+## It took me the 5-10 minutes to think and plan out strategy
+  - First solution was the brute force approach: check all pairs
+  - We want to traverse the linked nodes 
+
+## It took me the rest of the time to code: finished one solution and attempted another
+  - No extra time was needed necessarily 
+
+## I was NOT able to walkthrough an example with solution 1
+
+## I was NOT able to deduce what the time complexity was 
+
+## Took 20 minutes learning the given video solution and implementing
+
+###### TOTAL TIME: 40 min (+5 for this reflection) = 45 minutes
+---------------------------------------------------------------
+# REFLECTIONS
+  What went well:
+    - I was able to spot the difficult of this problem versus just reversing a string
+    - I was able to come up with a hacky solution at first
+    - Stacks and queues immmediately popped to my mind as data structures to use
+    - I was able to compartmentalize different functionalities in my main function
+      to helpers easily
+
+
+  What went wrong:
+    - I was not sure on what the time complexity was for my solution
+      - Even though I was aiming at linear, I wasn't sure
+    - I may have been using an unnecessary structure even though it's still O(N) space complex
+    - UPDATE
+'''

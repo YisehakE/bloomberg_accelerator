@@ -4,21 +4,33 @@
 - Min_Height_Bst                       | BST | Chris' HW
 - Merging_Linked_List                  | LL  | Chris' HW
 - Merge_Linked_List                    | LL  | Chris' HW
-- Merge_Overlapping_Intervals          | Arr | Workshop
-- Find_Duplicate_Values                | Arr | Workshop
+
+- Merge_Overlapping_Intervals          | Arr1| Workshop
+- Find_Duplicate_Values                | Arr1| Workshop
 - Remove_Kth_Node                      | LL  | Workshop
 - Reverse_Linked_List                  | LL  | Workshop
 - Linked_List_Contruction              | LL  | Workshop HW
 - DFS                                  | GPH | Workshop
 - BFS                                  | GPH | Workshop
-- Validate BST
-- Reconstruct BST
+- Validate BST                         | BST | Workshop 
+- Reconstruct BST                      | GPH | Workshop
+- Remove Islands                       | GPH | Workshop HW | REVIEW VIDEO
+
+- Best time to buy & sell stock        | Arr1 | Chris Mock
+- Longest peak                         | Arr1| Chris       | REVIEW VIDEO
+- Reverse words in string              | Arr1| Chris HW    | REVIEW VIDEO
 
 
-## Upcoming HWs
-- Remove Islands                       | GPH | Workshop 
-- Knight_Connection                    | ?   | Chris
-- ADD                                  | BST | Workshop
+
+## Upcoming HWs/Mock
+- Array of Products                    | Arr1| Workshop HW
+
+- Knight Connection                    | Arr | Chris HW
+- Find Kth Largest Value               | BST | Workshop
+
+- ZigZag-traverse                      | Arr2| Chris HW
+- Staircase-traversal                  | Arr2| Chris HW
+
 
 ## Arrays
 - Merging_Overlapping_Intervals
