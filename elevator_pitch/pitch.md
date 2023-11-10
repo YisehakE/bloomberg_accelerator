@@ -71,6 +71,16 @@ service within critical points where data typically goes missing in our CloudTra
 
 ## Questions that may be asked 
 
+- What did you learn from X project?
+
+- What challenges did you face when working on X project?
+
+- How did this project make you a better software engineer?
+
+- Walk me through the tech stack you used, and what other solutions you may have explored?
+
+- 
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

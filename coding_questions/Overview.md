@@ -19,8 +19,7 @@
 - Best time to buy & sell stock        | Arr1 | Chris Mock
 - Longest peak                         | Arr1| Chris       | REVIEW VIDEO
 - Reverse words in string              | Arr1| Chris HW    | REVIEW VIDEO
-
-
+- ZigZag-traverse                      | Arr2| Chris HW
 
 ## Upcoming HWs/Mock
 - Array of Products                    | Arr1| Workshop HW
@@ -28,9 +27,7 @@
 - Knight Connection                    | Arr | Chris HW
 - Find Kth Largest Value               | BST | Workshop
 
-- ZigZag-traverse                      | Arr2| Chris HW
 - Staircase-traversal                  | Arr2| Chris HW
-
 
 ## Arrays
 - Merging_Overlapping_Intervals
