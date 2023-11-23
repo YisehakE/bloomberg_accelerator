@@ -148,7 +148,6 @@ print(reverseWordsInString_3(tst_str_1))
 * I gave myself 20 minutes to do this problem
 ## It took me the 5-10 minutes to think and plan out strategy
   - First solution was the brute force approach: check all pairs
-  - We want to traverse the linked nodes 
 
 ## It took me the rest of the time to code: finished one solution and attempted another
   - No extra time was needed necessarily 
