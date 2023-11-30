@@ -63,6 +63,16 @@ service within critical points where data typically goes missing in our CloudTra
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Amazon project 2021
 
+### Overview
+- I built a full-stack standalone site for AWS security to report selleers' risk and trends on their account, giving them a risk score. This was developed utilizing AWS services in Typescript and Java through AWS Software Development Kit.
+
+
+### How does it work?
+- ADD
+
+- ADD
+
+- ADD
 
 
 
@@ -86,3 +96,24 @@ service within critical points where data typically goes missing in our CloudTra
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ALL TOGETHER
+
+- Talk about the project
+- Talk about why it mattered (to myself or to others)
+
+- Talk about the tech stack
+  - Why did I use the particular tools that I did?
+
+
+- Talk about the challenges
+  - In a algorithmic sense
+  -  
+
+- Talk about hte pros/cons of 
+
+
+
+- Buzz words
+  - Merge legacy code --> migrate
+  - Cloud 
+  - Entry point -->
+  - 
