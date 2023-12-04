@@ -13,7 +13,6 @@
 ## Watched a Neetcode video on this exact problem, mimicked it in solution 3
 
 ## TOTAL TIME: 30min (+15min extra, +5min for this reflection) = 45-50 minutes
-
 ---------------------------------------------------------------
 # REFLECTIONS
   What went well:

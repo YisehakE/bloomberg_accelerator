@@ -1,20 +1,27 @@
 # Intro
 
-
 ## Casual Description
 
-- I am an undergrad senior majoring in Computer Science major and minoring in Entrepreneurship Management at Johns Hopkins University! I have worked extensively as an engineering technician and a software engineer at the US Naval Research Laboratory and Amazon respectively. My other endeavors include providing mentorship with organizations and privately, pursuing entrepreneurial ventures as a team lead, developing personal projects in and outside the classroom, dancing as a hobby and for my culture, and meditating on trails in the midst of nature.
+- I am an undergrad senior majoring in Computer Science major and minoring in Entrepreneurship Management attending the Johns Hopkins University! 
+
+- I am currently seeking full-time new grad opportunities for software engineering roles, and where I would be able to provide my extensive experience as an engineering technician and a software engineer at the US Naval Research Laboratory and Amazon respectively. 
+
+- My other endeavors I enjoy include providing mentorship with organizations and privately, pursuing entrepreneurial ventures as a team lead, developing personal projects in and outside the classroom, dancing as a hobby and for my culture, and meditating on trails in the midst of nature.
 
 
 ## Technical Description
+- I am an undergrad senior majoring in Computer Science major and minoring in Entrepreneurship Management attending the Johns Hopkins University! I am currently seeking full-time new grad opportunities for software engineering roles, and where I would be able to provide my extensive experience as an engineering technician and a software engineer at the US Naval Research Laboratory and Amazon respectively. 
 
-UPDATE
+- My work at Amazon was involved in both AWS securities as part of Customer Trust and Partner Support (CTPS) organization my first year, and then AWS cloud computing as part of the CloudTrail team my 2nd year, where I worked on Lake datastore. 
 
-- I am an undergrad senior majoring in Computer Science major and minoring in Entrepreneurship Management at Johns Hopkins University! I have previous work experience at Amazon as an Software Developer Engineer for 2 years, where my 1st year involved developing a full-stack standalone site utilizing AWS services in Typescript and Java.
+- My 1st year was at Amazon's headquarters in Seattle, I was tasked with developing a full-stack standalone site utilizing AWS services - such as DynamoDB, & Identity Access Management - in Typescript for the frontend UI and Java for the SpringBoot backend application. 
+  - CHECK OUT AMAZON 2021 FOR MORE DETAILS
+
+- My 2nd year, I was brought back on a new CloudTrail team based in Arlington, VA - Amazon's 2nd headquarters closer to home - to integrate a tooling service using even more AWS services - including Glue, Athena, Lambda, Athena, & Identity Access Management - in Python for the command-line entry point and Typescript for the API functions that facilitated the service logic. This was mostly developed using the Software Development Kit under AWS.
+  - CHECK OUT AMAZON 2022 FOR MORE DETAILS
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ## HopHustle project
 
@@ -22,9 +29,15 @@ UPDATE
 
 - HopHustle is a web application that a team of 4 and I developed in a course called Object Oriented Software Engineering, and that I continued working on as a personal coding and venture project.
 
-- I utilized a PERN stack to develop an app that helps studens on campus
+- I utilized a Postgres - Express - React - Node JS (PERN) stack to develop an app that helps students servicers and clients on campus. 
 
-- I was very excited and motivated by the support our professor exclaimed that I took it upon myself to continue working the app during this past summer, working both on implementation and now the venture side of HopHustle. I have implemented new features such as a trending discovery page, live feed for client requests, and a landing page that stands out along with just maintaining what we've already built.
+- I was very excited and motivated by the support our professor expressed that I took it upon myself to continue working the app during this past summer, working both on implementation and now the venture side of HopHustle. I have implemented new features such as a trending discovery page, live feed for client requests, and a landing page that stands out along with just maintaining what we've already built.
+
+- We had to map out the project ideation, requirement specifications, and system design before starting the work to develop it from scratch.
+
+- We used a dockerized container to support the application both in local and live development,
+
+- 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -63,6 +76,8 @@ service within critical points where data typically goes missing in our CloudTra
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Amazon project 2021
 
+UPDATE
+
 ### Overview
 - I built a full-stack standalone site for AWS security to report selleers' risk and trends on their account, giving them a risk score. This was developed utilizing AWS services in Typescript and Java through AWS Software Development Kit.
 
@@ -73,8 +88,6 @@ service within critical points where data typically goes missing in our CloudTra
 - ADD
 
 - ADD
-
-
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -89,31 +102,18 @@ service within critical points where data typically goes missing in our CloudTra
 
 - Walk me through the tech stack you used, and what other solutions you may have explored?
 
-- 
-
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 # ALL TOGETHER
 
 - Talk about the project
 - Talk about why it mattered (to myself or to others)
-
 - Talk about the tech stack
   - Why did I use the particular tools that I did?
-
-
 - Talk about the challenges
   - In a algorithmic sense
-  -  
-
 - Talk about hte pros/cons of 
-
-
-
 - Buzz words
   - Merge legacy code --> migrate
   - Cloud 
   - Entry point -->
-  - 
