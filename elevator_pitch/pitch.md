@@ -1,4 +1,4 @@
-# Intro
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Intro
 
 ## Casual Description
 
@@ -22,40 +22,9 @@
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Work Experience
 
-## HopHustle project
-
-UPDATE
-
-- HopHustle is a web application that a team of 4 and I developed in a course called Object Oriented Software Engineering, and that I continued working on as a personal coding and venture project.
-
-- I utilized a Postgres - Express - React - Node JS (PERN) stack to develop an app that helps students servicers and clients on campus. 
-
-- I was very excited and motivated by the support our professor expressed that I took it upon myself to continue working the app during this past summer, working both on implementation and now the venture side of HopHustle. I have implemented new features such as a trending discovery page, live feed for client requests, and a landing page that stands out along with just maintaining what we've already built.
-
-- We had to map out the project ideation, requirement specifications, and system design before starting the work to develop it from scratch.
-
-- We used a dockerized container to support the application both in local and live development,
-
-- 
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## CommUnity project
-
-UPDATE
-
-- CommUnity is an web application that a team of 6 and I developed in a course called Computer Science Innovation & Entrepreneurship, and not only that, we also hashed out the business venture along with it!
-
-- We implemented this application with a fun & intereting tech stack of Next.js and Supabase, a new database similiar to Firebase but has these cool features of built-in authentication that we were able to tweak for our Johns Hopkins SSO logins and built-in buckets that we utilized to capture the users media uploads. We coded in Typescript, along with using Open AI ChatGPT open sourced AI, implemented a personalized chat feature where users can ask away about specific information about events or about the club and organizations themselves. -
-
-- I was able to implement many of the different flows for the site, including the search filtering or the modals for the homepage, along with the account page where I'd deal with the access policies for different types of users on our platform
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Amazon project 2022
-
+##                                                        Amazon project 2022
 ### Overview
 - I built a tooling service for internal Amazonians to be able to collect a backlog of event data that may have went missing on the customer side. This was integrated within the AWS CloudTrail infrastructure, and
 I managed to design a entry point for internal Amazon workers to specify a range of time they would want to inspect potential missing or corrupted data
@@ -74,7 +43,7 @@ service within critical points where data typically goes missing in our CloudTra
 - I typed up this project in two languages: Python and Typescript. I used Python for the entry point scripting with Boto3 as a useful library, along with typescript to integrate the AWS functionality and to easily layer on top of my team's existing codebase.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Amazon project 2021
+##                                                        Amazon project 2021
 
 UPDATE
 
@@ -88,10 +57,40 @@ UPDATE
 - ADD
 
 - ADD
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Personal Projects
+
+##                                                        HopHustle project
+
+UPDATE
+
+- HopHustle is a web application that a team of 4 and I developed in a course called Object Oriented Software Engineering, and that I continued working on as a personal coding and venture project.
+
+- I utilized a Postgres - Express - React - Node JS (PERN) stack to develop an app that helps students servicers and clients on campus. 
+
+- I was very excited and motivated by the support our professor expressed that I took it upon myself to continue working the app during this past summer, working both on implementation and now the venture side of HopHustle. I have implemented new features such as a trending discovery page, live feed for client requests, and a landing page that stands out along with just maintaining what we've already built.
+
+- We had to map out the project ideation, requirement specifications, and system design before starting the work to develop it from scratch.
+
+- We used a dockerized container to support the application both in local and live development,
+
+- 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##                                                        CommUnity project
 
+UPDATE
+
+- CommUnity is an web application that a team of 6 and I developed in a course called Computer Science Innovation & Entrepreneurship, and not only that, we also hashed out the business venture along with it!
+
+- We implemented this application with a fun & intereting tech stack of Next.js and Supabase, a new database similiar to Firebase but has these cool features of built-in authentication that we were able to tweak for our Johns Hopkins SSO logins and built-in buckets that we utilized to capture the users media uploads. We coded in Typescript, along with using Open AI ChatGPT open sourced AI, implemented a personalized chat feature where users can ask away about specific information about events or about the club and organizations themselves. -
+
+- I was able to implement many of the different flows for the site, including the search filtering or the modals for the homepage, along with the account page where I'd deal with the access policies for different types of users on our platform
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Guidelines
 ## Questions that may be asked 
 
 - What did you learn from X project?
@@ -104,7 +103,7 @@ UPDATE
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# ALL TOGETHER
+# Behavioral/SR ENG tips for communicating
 
 - Talk about the project
 - Talk about why it mattered (to myself or to others)
