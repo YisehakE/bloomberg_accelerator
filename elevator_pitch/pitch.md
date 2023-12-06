@@ -14,7 +14,7 @@
 
 - My work at Amazon was involved in both AWS securities as part of Customer Trust and Partner Support (CTPS) organization my first year, and then AWS cloud computing as part of the CloudTrail team my 2nd year, where I worked on Lake datastore. 
 
-- My 1st year was at Amazon's headquarters in Seattle, I was tasked with developing a full-stack standalone site utilizing AWS services - such as DynamoDB, & Identity Access Management - in Typescript for the frontend UI and Java for the SpringBoot backend application. 
+- My 1st year was at Amazon's headquarters in Seattle, I was tasked with developing a full-stack standalone site utilizing AWS services - such as DynamoDB (a NoSQL database), & Identity Access Management - in Typescript for the frontend UI and Java for the SpringBoot backend application. 
   - CHECK OUT AMAZON 2021 FOR MORE DETAILS
 
 - My 2nd year, I was brought back on a new CloudTrail team based in Arlington, VA - Amazon's 2nd headquarters closer to home - to integrate a tooling service using even more AWS services - including Glue, Athena, Lambda, Athena, & Identity Access Management - in Python for the command-line entry point and Typescript for the API functions that facilitated the service logic. This was mostly developed using the Software Development Kit under AWS.
@@ -41,6 +41,19 @@ the partitions-by-date from the S3 bucket(s) users specified on the command line
 service within critical points where data typically goes missing in our CloudTrail infrastructure. This way, it ensures data retrieval whether the clients noticed or not, meaning it no longer requires clients to submit a ticket after realizing data is missing.
 
 - I typed up this project in two languages: Python and Typescript. I used Python for the entry point scripting with Boto3 as a useful library, along with typescript to integrate the AWS functionality and to easily layer on top of my team's existing codebase.
+
+
+## Why was this the project
+
+- THINGS TO CONSIDER:
+  - THE VALUE OF THE PROJECT AND YOUR CONTRIBUTION?
+  - HOW MUCH DO YOU UNDERSTAND THE WIDER ORGANZATION?
+  - HOW MUCH DID YOUR CONTRIBUTION BENEFIT THE ORGANIZATION
+      - DID IT IMPROVE THE TRANSPARENCY AND 
+      - DID YOU UNDERSTAND THE IMPACT? THE SCOPE?
+      - HOW WOULD YOU GROW THE PROJECT GIVEN MORE TIME?
+- HOW DID YOU COLLABORATE WITH THE TEAM?
+  - 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##                                                        Amazon project 2021
@@ -90,29 +103,104 @@ UPDATE
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Guidelines
-## Questions that may be asked 
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Questions, questions, questions
 
+
+## Questions THEY may ask
+### Self devised
 - What did you learn from X project?
-
 - What challenges did you face when working on X project?
-
 - How did this project make you a better software engineer?
-
 - Walk me through the tech stack you used, and what other solutions you may have explored?
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Behavioral/SR ENG tips for communicating
+### From Chris
+####  Prompt 1:
+  - **Prelude**: I see here that you have 2 years experience at this company, and that you work on 2 different systems...
+  - **Question**: What would've happened if your internship extended for another 6 weeks for either term?
+  - **Possible ways to approach**:
+    - I would want to optimized this X because 
+    - How to apply fixes from your project to another component within the team
+      - Ex: consider modules from other team members work
+    - 
 
+#### Prompt #:
+  - **Prelude**: 
+  - **Question**: 
+  - **Possible ways to approach**:
+    - 
+
+
+## Question YOU should ask
+### Self devised
+- I imagine that Bloomberg maintains their services internally through their own pipeleine, I was curious on:
+  - how does Bloomberg ensures engineers are onboard with their pipeline?
+  - Were there were any particular challenges when interacting with them?
+
+- What are your experiences that you had with your current team?
+- How often does your team build services that other Bloomerg engineers can use?
+
+
+### From Chris
+- What are some interesting challengees you faced with your team?
+- What are the features on the terminal that your team is responsible for maintaining, implementating, and deploying?
+- What are some features that you would want to go back and reimplement and redeploy?
+- How is your department evolving?
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Helpful tips
+
+# Behavioral OR SR ENG
+
+## Tips for communicating
 - Talk about the project
-- Talk about why it mattered (to myself or to others)
+  - What was the vision/purpose of the project
+  - What approaches did you take?
+  - why it mattered (to myself or to others)
 - Talk about the tech stack
   - Why did I use the particular tools that I did?
-- Talk about the challenges
-  - In a algorithmic sense
-- Talk about hte pros/cons of 
+  - Talk about the pros/cons (i.e tradeoffs) of services used
+- Talk about challenges faced
+  - Spans beyond just the project:
+    - Examples:
+      - Project
+      - Team collaboration
+      - Onboarding
+  - We can split these into 2 different types: technical AND non-technial
+  - Technical:
+    - Explain in a algorithmic or concise manner
+    - ADDDDDDDDD
+  - Non-technical:
+    - Build a story
+    - ADDDDDDDDD
+  - Don't just leave it at the challenge...
+    - Expand on what you did to overcome it!
 - Buzz words
-  - Merge legacy code --> migrate
-  - Cloud 
-  - Entry point -->
+  - Before giving terms, don't rely too much on these since they can actually HURT you if you overuse them (e.g can trap you in a space you might not actually understand)
+  - Terms:
+    - Instead of "merge legacy code" --> use "migrate legacy code"
+    - Cloud computing 
+    - Instead od "entry point" --> use
+
+
+
+# Behavioral
+## Who are recruiters ?
+  - ADD
+    - ADD
+
+# Senior Manager
+## Who are Sr. Managers ?
+  - Any Senior Manager will be in ENGINEERING, not external organizations...
+    - Their challenges is finding people-person and growing the health of team AND products in the right way.
+    - You should learn about insight into this indivdual's team
+    - There are always product managers that senior managers work
+
+
+# Miscellaneous/Interesting
+## Interesting facts about Bloomberg 
+  - They have their own Javascript engine for <?>
+  - C++ specific libraries for performance and <?>
